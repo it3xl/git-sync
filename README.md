@@ -1,4 +1,4 @@
-## This gitSync project was migrated to [git-repo-sync](https://github.com/it3xl/git-repo-sync) 
+## This project was migrated to [git-repo-sync](https://github.com/it3xl/git-repo-sync) 
 
 ### The reason is to prevent naming confusion.
 
