@@ -10,7 +10,7 @@ And I already moved my development to the new repository - **[git-repo-sync](htt
 # .
 ## .
 
-# gitSync
+# gitSync (migrated to [git-repo-sync](https://github.com/it3xl/git-repo-sync))
 
 ## git remote repositories synchronization
 
