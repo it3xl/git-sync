@@ -1,3 +1,15 @@
+## This gitSync project was migrated to [git-repo-sync](https://github.com/it3xl/git-repo-sync) 
+
+### The reason is to prevent naming confusion.
+
+I want to emphasize that **git-sync** synchronizes Git remote repositories. So, lets use **[git-repo-sync](https://github.com/it3xl/git-repo-sync)** name.
+
+Also, I'm finishing a huge amount of development for this project (see the develop branch).  
+I'm already migrated my development to the new repository - **[git-repo-sync](https://github.com/it3xl/git-repo-sync)**
+
+# .
+## .
+
 # gitSync
 
 ## git remote repositories synchronization
