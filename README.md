@@ -1,6 +1,6 @@
 ## This project was migrated to [git-repo-sync](https://github.com/it3xl/git-repo-sync) 
 
-### The reason is to prevent naming confusion.
+### The reason is to prevent naming confusions.
 
 I want to emphasize that **git-sync** synchronizes Git remote repositories. So, let's use **[git-repo-sync](https://github.com/it3xl/git-repo-sync)** name.
 
