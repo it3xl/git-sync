@@ -4,9 +4,6 @@
 
 I want to emphasize that **git-sync** synchronizes Git remote repositories. So, let's use **[git-repo-sync](https://github.com/it3xl/git-repo-sync)** name instead.
 
-Also, I'm finishing a huge amount of development for this project (see the develop branch).  
-And I already moved my development to the new repository - **[git-repo-sync](https://github.com/it3xl/git-repo-sync)**
-
 # .
 ## .
 
